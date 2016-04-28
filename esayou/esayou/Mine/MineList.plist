@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>我的发帖</string>
+			<key>pic</key>
+			<string>my_btn1_posting</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>我的足迹</string>
+			<key>pic</key>
+			<string>my_btn2_footprint</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>我的收藏</string>
+			<key>pic</key>
+			<string>my_btn3_collect</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>我的分享</string>
+			<key>pic</key>
+			<string>my_btn4_share.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>我的评论</string>
+			<key>pic</key>
+			<string>my_btn5_replay</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>我的积分</string>
+			<key>pic</key>
+			<string>my_btn6_integral</string>
+		</dict>
+	</array>
+</array>
+</plist>

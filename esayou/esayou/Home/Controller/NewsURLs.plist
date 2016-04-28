@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>焦点</string>
+		<key>urlString</key>
+		<string>headline/T1348647853363</string>
+		<key>replyUrl</key>
+		<string>3g_bbs</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>热门</string>
+		<key>New item</key>
+		<string></string>
+		<key>urlString</key>
+		<string>list/T1348648517839</string>
+		<key>replyUrl</key>
+		<string>3g_bbs</string>
+	</dict>
+	<dict>
+		<key>replyUrl</key>
+		<string>3g_bbs</string>
+		<key>urlString</key>
+		<string>list/T1348649654285</string>
+		<key>title</key>
+		<string>专题</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>教学</string>
+		<key>urlString</key>
+		<string>list/T1351233117091</string>
+		<key>replyUrl</key>
+		<string>3g_bbs</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>数据</string>
+		<key>urlString</key>
+		<string>list/T1348649145984</string>
+		<key>replyUrl</key>
+		<string>auto_bbs</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>图片</string>
+		<key>urlString</key>
+		<string>list/T1348654060988</string>
+		<key>replyUrl</key>
+		<string>mobile_bbs</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>视频</string>
+		<key>urlString</key>
+		<string>list/T1348649176279</string>
+		<key>replyUrl</key>
+		<string>mobile_bbs</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>直播</string>
+		<key>urlString</key>
+		<string>list/T1348648037603</string>
+		<key>replyUrl</key>
+		<string>sports_nba_bbs </string>
+	</dict>
+</array>
+</plist>
